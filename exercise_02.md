@@ -1,2 +1,2 @@
-  # -*- coding:utf-8 -*-
-  print("朱家才")
+    # -*- coding:utf-8 -*-
+    print("朱家才")
