@@ -4,3 +4,6 @@
         turtle.right(5*i)
         turtle.clear()
         turtle.write("朱家才",font=("Times",30,"bold")
+        
+
+      摘抄自康杰航 
