@@ -1,4 +1,4 @@
-from pylab import *
+    from pylab import *
 x=[0.]
 v=[50]
 t=[0.]
