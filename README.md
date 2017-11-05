@@ -9,6 +9,6 @@
 # homework 5
 - [x] [report](https://www.zybuluo.com/zhujiacai-789/note/922394)
 # homework 6
-- [x] [report]()
+- [x] [report](https://www.zybuluo.com/zhujiacai-789/note/940267)
 # homework 7
 - [x] [report]()
