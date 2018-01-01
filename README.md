@@ -17,7 +17,7 @@
 # homework 9
 - [x] [report](https://www.zybuluo.com/zhujiacai-789/note/971484)
 # homework 10
-- [x] [report]()
+- [x] [report](https://www.zybuluo.com/zhujiacai-789/note/1004260)
 # homework 11
 - [x] [report]()
 # homework 12
